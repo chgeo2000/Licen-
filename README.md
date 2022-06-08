@@ -1,2 +1,3 @@
 # Licenta
-Acest Repository conține mini-aplicațiile folosite în cadrul redactării lucrării.
+Acest Repository conține mini-programele folosite în cadrul redactării lucrării.
+Pentru fiecare program, am creat un branch nou. 
